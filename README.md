@@ -28,12 +28,14 @@ To generate a Gamil API key, go to https://myaccount.google.com/apppasswords and
 MY_EMAIL_KEY='aabbccddeeffgghh'
 ```
 
-### Email addresses
+### Email Addresses and Name
 
 Set you email address and your wife email address as well.
 
 ```
+MY_NAME='<your-name>'
 MY_EMAIL='<your-account>@gmail.com'
+WIFE_NAME='<your-wife-name>'
 MY_WIFE_EMAIL='<your-wife-account>@gmail.com'
 ```
 
